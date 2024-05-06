@@ -8,7 +8,7 @@
   </description>
   <url type="homepage">https://ultramarine-linux.org/</url>
   <metadata_license>MIT</metadata_license>
-  <developer_name>The Ultramarine Project</developer_name>
+  <developer_name>Fyra Labs</developer_name>
   <releases>
     <release version="rawhide" type="snapshot" date="" date_eol="">
       <description>
