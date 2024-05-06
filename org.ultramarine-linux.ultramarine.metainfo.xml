@@ -2,7 +2,7 @@
 <component type="operating-system">
   <id>org.ultramarine-linux.ultramarine</id>
   <name>Ultramarine Linux</name>
-  <summary>Ultramarine Linux distribution from the Ultramarine Project</summary>
+  <summary>The open-source operating system that just works, anywhere</summary>
   <description>
     <p>Ultramarine Linux is a Fedora-based Linux distribution designed to stay out of your way and be easy to use. All editions come with several tweaks preapplied to make initial setup and daily usage seamless.</p>
   </description>
