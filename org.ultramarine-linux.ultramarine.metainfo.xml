@@ -15,7 +15,7 @@
         <p>This is the current version for Rawhide, which is a continuous rolling development branch. No releases are ever made directly from Rawhide, and it never freezes. There is no guarantee of stability. Rawhide is intended for initial testing of the very latest code under active development.</p>
       </description>
     </release>
-    <release version="40" type="development" date="2024-05-05" date_eol="2025-05-13">
+    <release version="40" type="stable" date="2024-05-05" date_eol="2025-05-13">
       <description>
         <p>https://wiki.ultramarine-linux.org/en/release/upgrade-to-ultramarine-40/</p>
       </description>
