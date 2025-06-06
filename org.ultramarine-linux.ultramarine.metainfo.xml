@@ -15,9 +15,9 @@
         <p>This is the current version for Rawhide, which is a continuous rolling development branch. No releases are ever made directly from Rawhide, and it never freezes. There is no guarantee of stability. Rawhide is intended for initial testing of the very latest code under active development.</p>
       </description>
     </release>
-    <release version="42" type="stable" date="2025-06-05" date_eol="2026-05-13" url="https://blog.fyralabs.com/ultramarine-42-upgrades"/>
+    <release version="42" type="stable" date="2025-06-05" date_eol="2026-05-13"/>
       <description>
-        <p>Ultramarine Linux 42 upgrades are out now! Don't forget your towel!</p>
+        <p>https://blog.fyralabs.com/ultramarine-42-upgrades/</p>
       </description>
     </release>
     <release version="41" type="stable" date="2024-11-27" date_eol="2025-10-19">
